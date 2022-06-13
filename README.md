@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Jevon Adelwin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 currently learning React.js
 
 <!---
 jevonadelwin7/jevonadelwin7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
